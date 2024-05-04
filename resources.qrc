@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/cross.ico</file>
+        <file>icons/openFile.png</file>
+        <file>icons/ps.png</file>
+        <file>icons/saveFile.png</file>
+        <file>opt/non_blured/beauty.jpg</file>
+        <file>opt/non_blured/cat.jpg</file>
+        <file>opt/non_blured/draw.jpg</file>
+        <file>opt/non_blured/firtsAirplan.jpg</file>
+        <file>opt/non_blured/future.jpg</file>
+        <file>opt/non_blured/kamchatka.jpg</file>
+        <file>opt/non_blured/mars.jpg</file>
+        <file>opt/non_blured/moscow.jpg</file>
+        <file>opt/non_blured/sakura.jpg</file>
+    </qresource>
+</RCC>
